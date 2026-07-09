@@ -1,0 +1,7 @@
+{
+  "product":"PROVITEC",
+  "version":"1.0.0",
+  "build":"20260709",
+  "firmware":"https://provitec_ota.onrender.com/firmware/firmware.bin",
+  "mandatory":false
+}
