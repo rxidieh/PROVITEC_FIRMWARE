@@ -1,6 +1,6 @@
 {
   "product":"PROVITEC",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "build":"20260709",
   "firmware":"https://provitec_firmware.onrender.com/firmware/firmware.bin",
   "mandatory":false
